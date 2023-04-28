@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Thamash Karunarathna</h1>
-<marquee><h3 align ="center">A passionate Full Stack developer</h3></marquee>
-<a target="_blank" 
+<h3 align ="center">A passionate Full Stack developer <a target="_blank" 
         rel="noopener noreferrer
         align-content: center;">
         <img src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif" 
-        style="max-width: 50px; display: inline-block;">
- </a>
+        height="20" width="40">
+ </a></h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thamash98&label=Profile%20views&color=0e75b6&style=flat" alt="thamash98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
