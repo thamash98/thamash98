@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Thamash Karunarathna</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<marquee><h3>A passionate Full Stack developer</h3></marquee>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thamash98&label=Profile%20views&color=0e75b6&style=flat" alt="thamash98" /> </p>
 
