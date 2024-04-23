@@ -51,9 +51,6 @@ Feel free to reach out to me if you have any questions, suggestions, or collabor
   <a href="https://www.netsolutions.com/insights/wp-content/uploads/2022/06/how-to-become-a-software-developer.webp" target="_blank" rel="noopener noreferrer">
     <img src="https://www.netsolutions.com/insights/wp-content/uploads/2022/06/how-to-become-a-software-developer.webp" width="200px" style="max-width: 80%; border-radius: 100%;" align="right" alt="Software Developer">
   </a>
-  <a href="https://www.fiverr.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
