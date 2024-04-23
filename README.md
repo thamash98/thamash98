@@ -9,19 +9,25 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET Core and Angular**
-
-- 💬 Ask me about **ASP.NET MVC, Angular JS & SQL Server**
-
+- 💻 I'm currently working as a software engineer, focusing on the Finance domain.
+- 🌱 I love learning new technologies and exploring innovative solutions to complex problems.
+- 🔭 In my free time, I enjoy contributing to open-source projects and experimenting with new coding techniques.
 - 📫 How to reach me **thamashkarunarathna@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+## Technologies I Work With
+
+- **Languages:** C#, JavaScript
+- **Web Technologies:** ASP.NET, AngularJS
+- **Databases:** SQL Server, MySQL
+- **Others:** Git, Visual Studio, Visual Studio Code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thamashkarunarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamashkarunarathna" height="30" width="40" /></a>
 <a href="https://instagram.com/thamashhjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thamashhjk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thasaranga123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thasaranga123" height="30" width="40" /></a>
+
+Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities!
 </p>
 <hr style="width: 40%; margin: auto; margin-left: 0;">
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>  <a href="https://wa.me/qr/3YOWYYDOSISDP1" rel="nofollow"> <img src="https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"> </a> <a href="mailto: thasaranga123@gmail.com.com"> <img src="https://camo.githubusercontent.com/8205ce063a2d9574df5e4788b2b8a528acadc88143c74bda1a17d7a391f08ce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f746f6e4d61696c2d3842383943433f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f746f6e6d61696c266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" style="max-width: 100%;"> </a> <a href="https://www.facebook.com/thasaranga?mibextid=ZbWKwL" rel="nofollow"> <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"> </a>
