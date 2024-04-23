@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Thamash Karunarathna</h1>
-<h3 align ="center">A passionate Full Stack developer <a target="_blank" 
+<h3 align ="center">Full Stack developer <a target="_blank" 
         rel="noopener noreferrer
         align-content: center;">
         <img src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif" 
@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **ASP.NET Core and Angular**
 
-- 💬 Ask me about **Core-Java, Spring-Boot & react**
+- 💬 Ask me about **ASP.NET MVC, Angular JS & SQL Server**
 
 - 📫 How to reach me **thasaranga123@gmail.com**
 
